@@ -19,7 +19,3 @@ The “universally applicable” discourse is a qualm I have with GIS and AI ali
 Here is more information about the class I'm taking: [Open GIScience](opengisci.github.io)
 
 ![GitHub logo](/assets/images/GitHub-cat.png)
-
-|  column 1 | column 2 |
-| :-----: | -------|
-| centered | not centered |
