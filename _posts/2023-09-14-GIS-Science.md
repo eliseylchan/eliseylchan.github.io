@@ -15,3 +15,9 @@ My personal experiences with GIS fall into the “scientific tool” category. W
 
 
 The “universally applicable” discourse is a qualm I have with GIS and AI alike. Like AI, GIS won’t magically solve the problem you throw at it if you don’t understand the underlying concepts and methods needed to find a solution. On the other hand, the “inherently expansive and growing” discourse resonates with me, but I interpret this discourse differently than St. Martin and Wing. While the adoption of GIS and availability of GIS tools may begin to slow, I believe the applications of GIS will remain expansive because the problems that can be approached with GIS are always changing as the world changes and nuances emerge.
+
+![GitHub logo](/assets/images/GitHub-cat.png)
+
+|  column 1 | column 2 |
+| :-----: | -------|
+| centered | not centered |
