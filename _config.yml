@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Elise Chan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot.JPG"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
