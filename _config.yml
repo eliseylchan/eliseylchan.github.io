@@ -58,9 +58,8 @@ plugins:
 author:
   name   : "Elise Chan"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "Geo*scientist.   
-     
-            *Geology, Geomorphology, Geography, GIScience, Geoduck"
+  bio    : Geo*scientist.   
+           *Geology, Geomorphology, Geography, GIScience, Geoduck
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
