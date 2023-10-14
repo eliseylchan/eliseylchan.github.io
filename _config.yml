@@ -58,7 +58,9 @@ plugins:
 author:
   name   : "Elise Chan"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Geo*scientist.
+  
+            *Geology, Geomorph, Geography, GIScience, Geoduck"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
