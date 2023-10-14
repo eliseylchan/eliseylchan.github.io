@@ -58,17 +58,13 @@ plugins:
 author:
   name   : "Elise Chan"
   avatar : "/assets/images/headshot.JPG"
-  bio    : "Geo*scientist." 
-           "*Geology, Geomorphology, Geography, GIScience, Geoduck"
+  bio    : "Geo*scientist.     *(Geology, Geomorphology, Geography, GIScience, Geoduck")
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-link"
       url: "https://www.linkedin.com/in/elise-chan-2aa120216/"
 
 footer:
@@ -77,7 +73,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-link"
       url: "https://www.linkedin.com/in/elise-chan-2aa120216/"
 
 defaults:
