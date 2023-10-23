@@ -6,6 +6,7 @@ categories:
 tags:
   - GIS
   - Science
+  - Modeling
 ---
 
 ![Longley et al. Figure 6.1](/assets/images/Longley_6.1.png)
