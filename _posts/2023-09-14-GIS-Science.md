@@ -8,7 +8,7 @@ tags:
   - Science
 ---
 
-Science shouldn’t be defined by finding what is *true*. Conducting science is to approach the truth by chipping away at uncertainty. Although complete accuracy may not ever be achievable, I think unreproducible study does little to advance science in that manner. Regarding reproducibility and replicability, I wonder about the value of “landmark studies'' that should not be replicated due to ethical reasons (for example, the Stanford Prison Experiment). Such studies should not be replicated, but by being the only such study, its results could be “eternalized” (I don’t think this is the case with the SPE) despite lacking any confirmation of scientific value by comparison to other studies.
+Science shouldn’t be defined by finding what is *true*. Conducting science is to approach the truth by chipping away at uncertainty. Although complete accuracy may not ever be achievable, I think unreproducible study does little to advance science in that manner. Regarding reproducibility and replicability, I wonder about the value of “landmark studies'' that should not be replicated due to ethical reasons (for example, the [Stanford Prison Experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)). Such studies should not be replicated, but by being the only such study, its results could be “eternalized” (I don’t think this is the case with the SPE) despite lacking any confirmation of scientific value by comparison to other studies.
 
 
 My personal experiences with GIS fall into the “scientific tool” category. While I have taken GIS classes, I most often apply GIS to problems in fields such as geology, natural resources, and land use. The closest experience I have had to GIS as a science is refining a land cover classification to find the most accurate classifier. However, I still consider this using GIS as a tool to do statistical analysis–not engaging with GIS as a science. 
@@ -23,5 +23,3 @@ NASEM (National Academies of Sciences, Engineering, and Medicine). 2019. Reprodu
 St. Martin, K., and J. Wing. 2007. The discourse and discipline of GIS. Cartographica 42 (3):235–248, pg. 239-245. DOI:10.3138/carto.42.3.235-248.
 
 Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362, pg. 353-359. DOI:10.1111/0004-5608.872057. 
-
-![GitHub logo](/assets/images/GitHub-cat.png)
