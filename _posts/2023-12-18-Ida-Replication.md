@@ -1,6 +1,6 @@
 ---
 title: "Hurricane Ida Twitter Activity"
-date: 2023-12-16
+date: 2023-12-18
 categories:
   - Reproduction
 tags:
@@ -17,7 +17,7 @@ Due to changes in Twitter's API availability that prevented new Twitter data fro
 To determine hotspots of Twitter activity, the study uses the Getis Ord G\* method.
 Additional deviations I made from Holler (2019) include visualizing the geographic area of the search queries, using all counties that fall within the search area, and improving visualizations of analyses.
 
-[Hurricane Ida replication study report](https://eliseylchan.github.io/RPl-Ida)
+[Hurricane Ida replication study report](https://eliseylchan.github.io/RPl-Ida/)
 
 [Github repository](https://github.com/eliseylchan/RPl-Ida)
 
